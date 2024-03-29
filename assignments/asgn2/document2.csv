@@ -1,0 +1,51 @@
+id, document
+1, this is a sample sentence.
+2, there are 3 sentences in this sample.
+3, this is a placeholder sentence.
+4, this is just another sample sentence for testing purposes.
+5, tfidf testing is important for natural language processing tasks.
+6, each document in this dataset contains a unique identifier.
+7, the purpose of this dataset is to test tfidf algorithms.
+8, tfidf stands for term frequency-inverse document frequency.
+9, tfidf is commonly used in information retrieval and text mining.
+10, tfidf helps in identifying the importance of words in a document.
+11, tfidf assigns higher weights to words that are rare in the entire dataset but frequent in a particular document.
+12, tfidf can be used for various NLP tasks such as document classification and clustering.
+13, tfidf is a powerful tool for text analysis.
+14, tfidf can handle large datasets efficiently.
+15, tfidf algorithms require a collection of documents as input.
+16, tfidf is based on the idea that words that occur frequently in a document but rarely in other documents are important.
+17, tfidf is widely used in search engines for document ranking.
+18, tfidf is an unsupervised learning algorithm.
+19, tfidf is a statistical measure used to evaluate the importance of a word in a document.
+20, tfidf is calculated by multiplying the term frequency and inverse document frequency.
+21, tfidf is useful for extracting keywords from a document.
+22, tfidf can be customized by adjusting parameters such as smoothing and normalization.
+23, tfidf values are typically normalized to prevent bias towards longer documents.
+24, tfidf is sensitive to the size of the document collection.
+25, tfidf is robust to stopwords.
+26, tfidf is sensitive to document frequency.
+27, tfidf is sensitive to term frequency.
+28, tfidf is sensitive to the length of documents.
+29, tfidf is widely used in text mining applications.
+30, tfidf is an essential component of many NLP pipelines.
+31, tfidf can be used to compare documents for similarity.
+32, tfidf is based on the bag-of-words model.
+33, tfidf can handle both short and long documents.
+34, tfidf is computationally efficient.
+35, tfidf is scalable to large datasets.
+36, tfidf is implemented in various programming languages such as Python and Java.
+37, tfidf is used in document summarization.
+38, tfidf is used in sentiment analysis.
+39, tfidf is used in topic modeling.
+40, tfidf is used in machine translation.
+41, tfidf is used in named entity recognition.
+42, tfidf is used in text classification.
+43, tfidf is used in information extraction.
+44, tfidf is used in document clustering.
+45, tfidf is used in text summarization.
+46, tfidf is used in text generation.
+47, tfidf is used in text segmentation.
+48, tfidf is used in text normalization.
+49, tfidf is used in text categorization.
+50, tfidf is used in text retrieval.

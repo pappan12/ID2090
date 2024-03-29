@@ -1,0 +1,5 @@
+Vehicle Number SoC Mileage(in m) Charging Time(in min) SoH Driver Name
+RB-34-XE 86 11180 12 21 VHMSKKUC
+            40
+AG-22-QA 2 1170 81 9 MUAYENW
+LT-20-TV 0 5961 90 52 NBBLNBG
