@@ -1,0 +1,46 @@
+// digraph G {
+// rankdir=LR;  // Set direction to left-to-right
+//   // Set default edge attributes
+//   edge [color=black, style=solid, arrowhead=normal];
+
+//   // Define nodes
+//   0[shape=circle];
+//   1[shape=circle];
+//   2[shape=circle];
+//   3[shape=circle];
+//   4[shape=doublecircle];
+//   // Draw edges with custom attributes
+//   0->1[label="a"]
+//   1->2[label="b"]
+//   2->3[label="c"]
+//   3->4[label="d"]
+// }
+
+// digraph G{
+// rankdir=LR;  // Set direction to left-to-right
+//   // Set default edge attributes
+//   edge [color=black, style=solid, arrowhead=normal];
+
+//   // Define nodes
+//   0[shape=circle];
+//   1[shape=doublecircle];
+//   // Draw edges with custom attributes
+//   0->0[label="a"]
+//   0->0[label="c"]
+//   0->1
+// }
+
+digraph G{
+rankdir=LR;  // Set direction to left-to-right
+  // Set default edge attributes
+  edge [color=black, style=solid, arrowhead=normal];
+
+  // Define nodes
+  0[shape=circle];
+  1[shape=doublecircle];
+  // Draw edges with custom attributes
+  0->0[label="a"]
+  0->1
+}
+
+
